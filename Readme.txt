@@ -1,3 +1,5 @@
+The R codes and the data files used in Srivastava, Sengupta, and Ghosh (2024), "Quantifying the rhythm of ice accumulation in East Antarctica with varying temperature" is given in this repository. The supplementary material of this article is also available here for reference.
+
 The three data sets are publicly available from the sites mentioned in the references. 
 The AICC2012 age scales for Lake Vostok and EPICA Dome C (aicc2012icecore-data.xls) were downloaded from https://www.ncei.noaa.gov/access/paleo-search/study/15076. 
 
